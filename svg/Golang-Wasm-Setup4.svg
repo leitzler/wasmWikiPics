@@ -48,8 +48,8 @@
      id="namedview10268"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="304.28"
-     inkscape:cy="355.5"
+     inkscape:cx="450.35268"
+     inkscape:cy="357.07411"
      inkscape:window-x="825"
      inkscape:window-y="257"
      inkscape:window-maximized="0"
@@ -64,7 +64,8 @@
      x="0"
      y="0" />
   <g
-     id="g4204">
+     id="g4204"
+     transform="translate(39.193771)">
     <rect
        style="fill:#ffffff;stroke:#0000ff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
        ry="23.056595"
@@ -88,12 +89,12 @@
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">syscall/js</tspan>&quot; should now be recognised.</tspan><tspan
          id="tspan10343"
          style="font-size:26.66666603px;text-align:center;text-anchor:middle"
-         y="554.8288"
+         y="554.82874"
          x="424.46899"
          sodipodi:role="line">Syntax highlighting, documentation,</tspan><tspan
          id="tspan10353"
          style="font-size:26.66666603px;text-align:center;text-anchor:middle"
-         y="604.8288"
+         y="604.82874"
          x="424.46899"
          sodipodi:role="line">(etc) should now work too.</tspan></text>
   </g>
