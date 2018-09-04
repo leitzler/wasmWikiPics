@@ -63,7 +63,7 @@
      id="namedview5227"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="274.40426"
+     inkscape:cx="444.07435"
      inkscape:cy="393.14481"
      inkscape:window-x="1044"
      inkscape:window-y="425"
@@ -79,32 +79,28 @@
      x="0"
      y="0" />
   <g
-     id="g5266"
-     transform="translate(-51.232605,-150.46448)">
-    <g
-       id="g5301">
-      <rect
-         id="rect3728-0"
-         width="254.23515"
-         height="55.7253"
-         x="390.27948"
-         y="477.28934"
-         ry="7.1227837"
-         style="fill:#ffffff;stroke:#0000ff;stroke-width:1.10423601;stroke-miterlimit:4;stroke-dasharray:none" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         x="519.03766"
-         y="512.52826"
-         id="text4555-1"><tspan
-           sodipodi:role="line"
-           x="519.03766"
-           y="512.52826"
-           style="font-size:26.66666603px;text-align:center;text-anchor:middle"
-           id="tspan4569-1">Then <tspan
-   id="tspan5295"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Settings</tspan>.</tspan></text>
-    </g>
+     id="g3578">
+    <rect
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+       ry="7.1227837"
+       y="326.82486"
+       x="339.04688"
+       height="55.7253"
+       width="254.23515"
+       id="rect3728-0" />
+    <text
+       id="text4555-1"
+       y="361.94012"
+       x="467.64883"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan4569-1"
+         style="font-size:26.66666603px;text-align:center;text-anchor:middle"
+         y="361.94012"
+         x="467.64883"
+         sodipodi:role="line">Then <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan5295">Settings</tspan>.</tspan></text>
   </g>
   <rect
      style="fill:none;stroke:#00a701;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

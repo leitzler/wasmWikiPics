@@ -35,6 +35,20 @@
   <defs
      id="defs6406">
     <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker953"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path951"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#ff6600;stroke-width:1pt;stroke-opacity:1;fill:#ff6600;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
        inkscape:stockid="Arrow2Lstart"
        orient="auto"
        refY="0.0"
@@ -70,7 +84,8 @@
        refX="0.0"
        refY="0.0"
        orient="auto"
-       inkscape:stockid="TriangleOutM">
+       inkscape:stockid="TriangleOutM"
+       inkscape:collect="always">
       <path
          transform="scale(0.4)"
          style="fill-rule:evenodd;stroke:#ff6600;stroke-width:1pt;stroke-opacity:1;fill:#ff6600;fill-opacity:1"
@@ -107,7 +122,7 @@
      id="namedview6404"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="355.83795"
+     inkscape:cx="486.11073"
      inkscape:cy="351"
      inkscape:window-x="50"
      inkscape:window-y="179"
@@ -123,9 +138,9 @@
      x="0"
      y="0" />
   <g
-     id="g7750">
+     id="g4218">
     <rect
-       style="fill:#ffffff;stroke:#0000ff;stroke-width:2.11986828;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
        ry="9.7684317"
        y="49.7882"
        x="341.95984"
@@ -134,14 +149,14 @@
        id="rect3728" />
     <text
        id="text4555"
-       y="95.400894"
-       x="683.3952"
+       y="95.276779"
+       x="683.54547"
        style="font-style:normal;font-weight:normal;font-size:40.13333511px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00333333"
        xml:space="preserve"><tspan
          id="tspan4569"
          style="font-size:26.7555542px;text-align:center;text-anchor:middle;stroke-width:1.00333333"
-         y="95.400894"
-         x="683.3952"
+         y="95.276779"
+         x="683.54547"
          sodipodi:role="line">1. Navigate to <tspan
    id="tspan6490"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:1.00333333">Go</tspan> → <tspan
@@ -165,9 +180,9 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc" />
   <g
-     id="g10264">
+     id="g2959">
     <rect
-       style="fill:#ffffff;stroke:#0000ff;stroke-width:2.5126524;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
        ry="16.066422"
        y="182.95758"
        x="697.85834"
@@ -210,9 +225,9 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">wasm&quot;</tspan>.</tspan></text>
   </g>
   <g
-     id="g10252">
+     id="g2969">
     <rect
-       style="fill:#ffffff;stroke:#0000ff;stroke-width:2.513;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;stroke:#0000ff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
        ry="8.4010124"
        y="549.77289"
        x="691.80627"
@@ -233,6 +248,14 @@
    id="tspan7871"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">OK</tspan>.</tspan></text>
   </g>
+  <rect
+     style="fill:none;stroke:#00a701;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4575-8-2-1"
+     width="95.185585"
+     height="43.531303"
+     x="776.40723"
+     y="652.23438"
+     ry="7.4750714" />
   <path
      style="fill:none;stroke:#ff6600;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7974)"
      d="m 759.00868,606.11165 c 12.67139,36.77548 39.34013,57.11703 39.34013,57.11703"
@@ -249,4 +272,10 @@
      x="279.85779"
      y="283.24002"
      ry="14.360735" />
+  <path
+     style="fill:none;stroke:#ff6600;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker953)"
+     d="m 717,307 c -27,23 -61,29 -61,29"
+     id="path937"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
 </svg>
